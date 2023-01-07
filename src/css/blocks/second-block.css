@@ -1,0 +1,95 @@
+.second_block {
+    padding-top: 169px;
+    padding-bottom: 51px;
+
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 52px;
+
+}
+
+.discription {
+   max-width: 584px;
+   margin-right: 36px;
+
+}
+
+.line {
+    margin-bottom: -3px;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 157%;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 157%;
+    font-family: 'Georgia';
+    color: #01996D;
+}
+.content-offer {
+    max-width: 671px;
+    padding-top: 60px;
+    line-height: 150%;
+    font-weight: 500;
+
+}
+
+.columns{
+    display: grid;
+	grid-template-columns: repeat(auto-fit, 390px);
+	column-gap: 95px;
+}
+
+
+.table {
+    max-width: 390px;
+}
+
+.table-head {
+    position: relative;
+    padding-top: 135px;
+    padding-left: 88px;
+    margin-bottom: 55px;
+    font-family: 'Georgia';
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 150%; 
+    color: #000000;
+}
+
+.table-head::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: attr(number);
+    font-weight: 400;
+    font-size: 150px;
+    line-height: 150%;
+    color: rgba(1, 153, 109, 0.2);
+
+}
+
+.table-text{
+    margin-bottom: 60px;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: #424242;
+}
+
+.picture{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+
+}
+
+.img-pict {
+
+}
