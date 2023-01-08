@@ -10,7 +10,6 @@ body {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 20px;
-   
 }
 
 p + p {
@@ -41,6 +40,9 @@ img, svg {
     margin-right: auto;
 }
 
+.wide {
+    width: 1536px;
+}
 
 .button, a.button {
     display: inline-block;
@@ -57,11 +59,10 @@ img, svg {
     font-weight: 400;
     border: 2px solid #01996D;
     border-radius: 5px;
-
 }
+
 .big, a.big {
-   height: 65px; 
-   
+   height: 65px;  
 }
 
 .let {
@@ -78,36 +79,8 @@ img, svg {
     color: white;
 }
 
-.third_block {
-    display: flex;
-    justify-content: space-between;
-    color: white;
-    width: 1920px;
-    height: 922px;
-    background-color: #245852;
-    position: relative;
-    top: 128px;
-}
-
-/*.last_block {
-    width: 1920px;
-    height: 648px;
-    position: relative;
-    top: 205px;
-}
-*/
 .bottom {
     width: 1920px;
     height: 654px;
     background-color: #245852;
 }
-/*
-.discription {
-   font-size: 25px;
-   font-weight: 600px;
-
-}
-
-.picture {
-    border-radius: 25px;
-}*/

@@ -1,20 +1,17 @@
 .second_block {
     padding-top: 169px;
     padding-bottom: 51px;
-
 }
 
 .content {
     display: flex;
     justify-content: space-between;
     padding-bottom: 52px;
-
 }
 
 .discription {
    max-width: 584px;
    margin-right: 36px;
-
 }
 
 .line {
@@ -31,12 +28,12 @@
     font-family: 'Georgia';
     color: #01996D;
 }
+
 .content-offer {
     max-width: 671px;
     padding-top: 60px;
     line-height: 150%;
     font-weight: 500;
-
 }
 
 .columns{
@@ -71,7 +68,6 @@
     font-size: 150px;
     line-height: 150%;
     color: rgba(1, 153, 109, 0.2);
-
 }
 
 .table-text{
@@ -87,9 +83,8 @@
     width: 100%;
     height: auto;
     object-fit: cover;
-
 }
 
 .img-pict {
-
+    border-radius: 8px;
 }
