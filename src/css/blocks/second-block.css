@@ -29,6 +29,12 @@
     color: #01996D;
 }
 
+.diary {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 584px;
+}
+
 .content-offer {
     max-width: 671px;
     padding-top: 60px;
@@ -41,7 +47,6 @@
 	grid-template-columns: repeat(auto-fit, 390px);
 	column-gap: 95px;
 }
-
 
 .table {
     max-width: 390px;

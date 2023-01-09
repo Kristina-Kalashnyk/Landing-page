@@ -1,0 +1,70 @@
+.bottom {
+    position: relative;
+    width: 1920px;
+    max-height: 654px;
+    background-color: #245852;
+    color: white;
+    padding-top: 104px;
+    padding-bottom: 144px;
+}
+
+.bottom-content {
+     width: 800px;
+}
+
+.logo-alivio {
+    margin-bottom: 75px;
+}
+
+.bottom-nav {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.bottom-nav li {
+    margin-bottom: 60px;
+}
+
+.bottom-nav a {
+    color: white;
+}
+
+.media-btns {
+    height: 170px;
+    position: absolute;
+    bottom: 0;
+    margin-left: 752px;
+    margin-right: 92px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 285px;
+}
+
+.media {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 35px;
+ }
+
+.store {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px; 
+ }
+ 
+ .store-btns {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+ }
+
+ .discover {
+    margin-bottom: 15px;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: 500;
+ }
+        

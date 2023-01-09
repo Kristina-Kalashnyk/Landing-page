@@ -6,8 +6,8 @@
 
 body {
     width: 1920px;
-    height: 5099px;
-    font-family: 'Lato', sans-serif;
+    max-height: 5099px;
+    font-family: 'Lato', sans-serif;  
     font-weight: 400;
     font-size: 20px;
 }
@@ -77,10 +77,4 @@ img, svg {
 
 .white_text {
     color: white;
-}
-
-.bottom {
-    width: 1920px;
-    height: 654px;
-    background-color: #245852;
 }
