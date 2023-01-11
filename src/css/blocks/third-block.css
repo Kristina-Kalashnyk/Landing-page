@@ -1,5 +1,5 @@
 .third_block {
-    padding: 229px 0 176px ;
+    padding: 30.371vh 0 23.342vh ;
     background-color: #245852;
 }
 
@@ -11,23 +11,23 @@
 }
 
 .story-content {
-    margin-right: 30px;
-    max-width: 580px;
+    margin-right: 1.975vw;
+    max-width: 38.183vw;
 }
 
 .story-head {
-    font-size: 50px;
+    font-size: 3.292vw;
     line-height: 157%;
     font-weight: 700;
     font-family: "Georgia";
-    margin-bottom: 33px;
+    margin-bottom: 4.377vh;
 }
 
 .story-text {
     font-weight: 600;
-    font-size: 25px;
+    font-size: 1.646vw;
     line-height: 157%;
-    margin-bottom: 57px;
+    margin-bottom: 7.560vh;
 }
 
 .btn-let {
@@ -35,9 +35,10 @@
 }
 
 .video {
-	max-width: 895px;
+	max-width: 58.920vw;
+    margin-right: 1.617vw;
 	position: relative;
-    border-radius: 18px;
+    border-radius: 1.185vw;
     overflow: hidden;
 }
 
@@ -55,12 +56,12 @@
 	width: 100%;
 	height: 100%;
 	background-color: rgba(0, 0, 0, 0.2);
-    border-radius: 18px;
+    border-radius: 1.185vw;
 }
 
 .video-img {
     max-width: 100%;
 	height: auto;
 	vertical-align: top;
-    border-radius: 18px;
+    border-radius: 1.185vw;
 }

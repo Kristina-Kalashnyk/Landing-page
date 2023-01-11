@@ -1,28 +1,33 @@
 .bottom {
     position: relative;
-    width: 1920px;
-    max-height: 654px;
+    max-height: 6586.737vh;
     background-color: #245852;
     color: white;
-    padding-top: 104px;
-    padding-bottom: 144px;
+    padding-top: 13.793vh;
+    padding-bottom: 19.098vh;
 }
-
+.container-bottom {
+    width: 92.166vw;
+    padding-left:  0.987vw;
+    padding-right: 0.987vw;
+    margin-left: 5vw;
+    margin-right: auto;
+}
 .bottom-content {
-     width: 800px;
+    width: 52.666vw;
 }
 
 .logo-alivio {
-    margin-bottom: 75px;
+    margin-bottom: 9.947vh;
 }
 
 .bottom-nav {
-    font-size: 25px;
+    font-size: 1.646vw;
     font-weight: 600;
 }
 
 .bottom-nav li {
-    margin-bottom: 60px;
+    margin-bottom: 7.958vh;
 }
 
 .bottom-nav a {
@@ -30,41 +35,40 @@
 }
 
 .media-btns {
-    height: 170px;
+    height: 22.546vh;
     position: absolute;
     bottom: 0;
-    margin-left: 752px;
-    margin-right: 92px;
+    margin-left: 29.506vw;
+    margin-right: 6.057vw;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    gap: 285px;
+    gap: 18.762vw;
 }
 
 .media {
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 35px;
+    gap: 2.304vw;
  }
 
 .store {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 15px; 
+    gap: 0.987vw; 
  }
  
  .store-btns {
     display: flex;
     flex-direction: row;
-    gap: 15px;
+    gap: 0.987vw;
  }
 
  .discover {
-    margin-bottom: 15px;
+    margin-bottom: 1.989vh;
     font-family: 'Poppins';
-    font-size: 20px;
+    font-size: 1.317vw;
     font-weight: 500;
  }
-        

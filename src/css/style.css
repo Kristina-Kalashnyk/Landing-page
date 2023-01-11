@@ -5,11 +5,11 @@
 }
 
 body {
-    width: 1920px;
-    max-height: 5099px;
+    width: 100vw;
+    max-height: 100%;
     font-family: 'Lato', sans-serif;  
     font-weight: 400;
-    font-size: 20px;
+    font-size: 1.317vw;
 }
 
 p + p {
@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 a {
-    font-size: 20px;
+    font-size: 1.317vw;
     text-decoration: none;
 }
 
@@ -33,46 +33,46 @@ img, svg {
 }
 
 .container {
-    width: 1400px;
-    padding-left:  15px;
-    padding-right: 15px;
+    width: 92.166vw;
+    padding-left:  0.987vw;
+    padding-right: 0.987vw;
     margin-left: auto;
     margin-right: auto;
 }
 
 .wide {
-    width: 1536px;
+    width: 101.119vw;
 }
 
 .button, a.button {
     display: inline-block;
-    height: 51px;
+    height: 6.764vh;
     display: flex;
     align-items: center;
     justify-content: center; 
     text-align: center;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 3.292vw;
+    padding-right: 3.292vw;
     background-color: #01996D;
     color: white;
-    font-size: 19px;
+    font-size: 1.251vw;
     font-weight: 400;
-    border: 2px solid #01996D;
+    border: 0.132vw solid #01996D;
     border-radius: 5px;
 }
 
 .big, a.big {
-   height: 65px;  
+   height: 8.624vh;  
 }
 
 .let {
-    width: 240px;
-    height: 65px;
+    width: 15.8vw;
+    height: 8.621vh;
 }
 
 .way {
-    width: 227px;
-    height: 65px;
+    width: 15.8vw;
+    height: 8.621vh;
 }
 
 .white_text {

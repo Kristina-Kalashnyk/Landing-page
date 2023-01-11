@@ -1,6 +1,6 @@
 .last_block {
-    padding-top: 120px;
-    padding-bottom: 168px;
+    padding-top: 15.915vh;
+    padding-bottom: 22.281vh;
 }
 
 .product {
@@ -10,26 +10,26 @@
 
 .picture {
     position: relative;
-    margin-right: 86px;
-    padding-left: 60px;
-    padding-bottom: 74px;
+    margin-right: 5.662vw;
+    padding-left: 3.950vw;
+    padding-bottom: 9.814vh;
 }
 
 .picture-img {
-    border-radius: 18px;
+    border-radius: 1.185vw;
 }
 
 .product-contents {
-    max-width: 584px;
+    max-width: 38.446vw;
 }
 
 .contents-text {
-    max-width: 530px;
+    max-width: 34.891vw;
     line-height: 144.5%;
 }
 
 .btn-find {
-    margin-top: 40px;
+    margin-top: 5.305vh;
 }
 
 .account {
@@ -40,33 +40,33 @@
 }
 
 .card {
-    width: 296px;
-    height: 293px;
+    width: 19.487vw;
+    height: 38.859vh;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 28px 20px 30px;
+    padding: 3.714vh 1.317vw 3.979vh;
     background-color: white;
-    border-radius: 3.73px;
+    border-radius: 0.246vw;
     box-shadow: 0px 3.62249px 18.1125px rgba(165, 165, 165, 0.25)
 }
 
 .card-title {
     position: relative;
-    font-size: 14px;
+    font-size: 0.922vw;
     font-weight: 600;
     line-height: 1;
-    padding-bottom: 12px;
-    margin-bottom: 13px;
+    padding-bottom: 1.592vh;
+    margin-bottom: 1.724vh;
 }
 
 .card-title::after {
     content: "";
     position: absolute;
     background-color: black;
-    height: 0.75px;
-    left: -7px;
-    right: -7px;
+    height: 0.099vh;
+    left: -0.461vw;
+    right: -0.461vw;
     bottom: 0;
 }
 
@@ -75,36 +75,36 @@
 }
 
 .avatar-img {
-    width: 58px;
-    height: 58px;
-    margin-bottom: 13px;
+    width: 3.818vw;
+    height: 7.692vh;
+    margin-bottom: 1.724vh;
     border-radius: 50%;
     object-fit: cover;
 }
 
 .avatar-name {
     color: #000;
-    margin-top: -12px;
-    margin-bottom: 12px;
-    font-size: 12px;
+    margin-top: -1.592vh;
+    margin-bottom: 1.592vh;
+    font-size: 0.790vw;
 }
 
 .contents {
     text-align: left;
-    padding-left: 6px;
+    padding-left: 0.395vw;
     line-height: 150%;
 }
 
 .contents ul {
     color: #000;
-    font-size: 11px;
+    font-size: 0.724vw;
     list-style-type: disc;
     list-style-position: inside;
 }
 
 .contents-title {
     font-family: 'Georgia';
-    margin-bottom: 7px;
-    font-size: 15.93px;
+    margin-bottom: 0.928vh;
+    font-size: 1.049vw;
     font-weight: 700;
-}            
+} 

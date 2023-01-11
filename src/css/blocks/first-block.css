@@ -1,32 +1,32 @@
 .background {
     position: relative;
-    padding: 175px 0;
-    min-height: 895px;
+    padding: 23.21vh 0;
+    min-height: 118.7vh;
 }
 
 .heading {
-    margin-bottom: 30px;
+    margin-bottom: 3.979vh;
     color: #01996D;
     font-family: 'Georgia';
-    font-size: 65px;
+    font-size: 4.279vw;
     font-weight: 700;
-    width: 435;
+    
 }
 
 .first_block  {
-    max-width: 440px;
+    max-width: 28.966vw;
 }
 
 .text {
     color: #484848;
     line-height: 144.5%;
-    max-width: 430px;
+    max-width: 28.308vw;
 }
 
 .btn-find {
     display: flex;
-    margin-top: 53px;
-    width: 225px;
+    margin-top: 7.029vh;
+    width: 14.812vw;
 }
 
 .bg {
