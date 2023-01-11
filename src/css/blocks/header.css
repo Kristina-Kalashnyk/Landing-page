@@ -1,11 +1,11 @@
 .header {
-    padding-top: 17px;
-    padding-bottom: 17px;
-    border-bottom: 1px solid #D6D6D6;
+    padding-top: 2.255vh;
+    padding-bottom: 2.255vh;
+    border-bottom: 0.133vh solid #D6D6D6;
 }
 
 .row {
-    height: 86px;
+    height: 11.406vh;
     display: flex;
     align-items: center;
     background-color: white;
@@ -16,7 +16,7 @@ ul {
 }
 
 .nav {
-    margin-left: 172px;
+    margin-left: 11.323vw;
 }
 
 .nav ul {
@@ -26,7 +26,7 @@ ul {
 }
 
 .nav li + li {
-    margin-left: 70px;
+    margin-left: 4.608vw;
 }
 
 .nav a{
@@ -35,13 +35,14 @@ ul {
     text-shadow: 1px 1px 3px black;
     -webkit-text-stroke-color: #000;
     -webkit-text-stroke-width: 1px;
+    
 }
 
 .enter {
     display: flex;
     align-items: center;
     margin-left: auto;
-    gap: 35px;
+    gap: 2.304vw;
     color:#000;
 }
 
